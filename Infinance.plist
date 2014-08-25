@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.newfinance.infinance</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Bitmedia</string>
+				<string>InFinance</string>
 			</dict>
 		</dict>
 	</array>
